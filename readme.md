@@ -35,3 +35,51 @@ golang.org go1.21.0.windows-amd64.msi
 8. 复制/删除文件 copy/del xx.xx
 
 ## 测试SDK环境
+
+## Hello World
+1. go build test.go
+2. test.exe
+or
+1. go run test.go
+
+
+# 第二章
+
+## 变量
+
+### 什么是变量
+变量是程序世界里的基本单位
+
+### 变量的使用步骤
+1. 声明
+2. 复制
+3. 使用
+
+## 变量的四种使用形式
+	// 第一种变量的使用方式
+	var num int = 18
+	fmt.Println(num)
+
+	// 第二种：指定变量的类型，但不赋值，使用默认值
+	var num2 int
+	fmt.Println(num2) //打印默认值
+
+	// 第三种：如何没有写变量的类型，那么根据后面的值进行判定变量的类型（自动类型推断）
+	var num3 = "10"
+	fmt.Println(num3)
+
+	// 第四种：省略var
+	gender := "male"
+	fmt.Println(gender)
+
+## 声明多个变量
+
+## 数据类型
+基本数据类型 复杂数据类型
+
+## 进制和进制转换
+
+## 整数类型
+int8 有符号 1字节 -128-127
+
+

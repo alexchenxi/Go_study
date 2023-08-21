@@ -1,4 +1,4 @@
-/* package main
+package main
 
 import "fmt"
 
@@ -8,7 +8,7 @@ var email = "test@163.com"
 func getNameAndAge() (string, int) {
 	return "tom", 20
 }
-func main() {
+func test() {
 	// var (
 	// 	name string
 	// 	age  int
@@ -34,4 +34,3 @@ func main() {
 	fmt.Printf("age: %v\n", age)
 
 }
-*/

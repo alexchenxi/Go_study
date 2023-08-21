@@ -2,8 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
-	const PI = 3.14
+func TestConst() {
 	const PI2 = 3.145
 	fmt.Printf("PI2: %v\n", PI2)
 

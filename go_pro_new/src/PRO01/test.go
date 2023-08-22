@@ -32,5 +32,4 @@ func test() {
 	name, age := getNameAndAge()
 	fmt.Printf("name: %v\n", name)
 	fmt.Printf("age: %v\n", age)
-
 }

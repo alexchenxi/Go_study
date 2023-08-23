@@ -5,7 +5,7 @@ import (
 	"math"
 )
 
-func main() {
+func demo14() {
 	/* var i8 int8
 	var i16 int16
 	var i32 int32

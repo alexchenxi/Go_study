@@ -6,7 +6,7 @@ type WebSites struct {
 	Name string
 }
 
-func main() {
+func demo16() {
 	// %v variable
 	/* 	site := WebSites{Name: "alex"}
 	   	fmt.Printf("site: %v\n", site)

@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func flow() {
 	a := 100
 	if a > 10 {
 		fmt.Printf("a: %v\n", a)

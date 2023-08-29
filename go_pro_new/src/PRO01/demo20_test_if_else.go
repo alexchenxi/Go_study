@@ -14,7 +14,7 @@ func f2() {
 	}
 }
 
-func main() {
+func test_if_else() {
 	f2()
 	/* var name string
 	var age int
